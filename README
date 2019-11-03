@@ -1,2 +1,7 @@
 My first Readme on Git!
 Now even better, with edits!
+
+To Note:
+In the index.html
+-Social references will need to be updated
+-Audio file references will need to be updated to not source from the full link (to source from a relative ../)
